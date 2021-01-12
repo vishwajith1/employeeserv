@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.paypal.bfs.test.employeeserv.func.EmployeeResourceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.081 s <<< FAILURE! - in com.paypal.bfs.test.employeeserv.func.EmployeeResourceImplTest
+initializationError(com.paypal.bfs.test.employeeserv.func.EmployeeResourceImplTest)  Time elapsed: 0.006 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/paypal/bfs/test/employeeserv/model/Address
+Caused by: java.lang.ClassNotFoundException: com.paypal.bfs.test.employeeserv.model.Address
+
